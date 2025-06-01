@@ -10,6 +10,6 @@ public class ex5 {
                 highestIndex = i;
             }
         }
-        System.out.println("The highest grade in the class is: " + grades[highestIndex]); // print the highest grade
+        System.out.println("The highest grade in the class is: " + grades[highestIndex]);
     }
 }
